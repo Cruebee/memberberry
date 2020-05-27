@@ -126,6 +126,7 @@ body{
   max-width: 40rem;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 2rem;
 }
 
 .title {
